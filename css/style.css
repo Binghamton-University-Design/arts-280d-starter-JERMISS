@@ -199,6 +199,11 @@ h4 {
 	margin-bottom: 2rem;
 }
 
+#hobby h3 a, #writing h3 a, {
+  color: var(--body-color);
+  text-decoration: none;
+}
+
 .hobby-item {
 	overflow: hidden;
 	height: 0;
