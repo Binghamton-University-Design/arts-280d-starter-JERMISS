@@ -1,5 +1,10 @@
 /*stylesheet*/
 
+:root {
+  --background-color: #fff;
+  --body-color: #111;
+}
+
 body {
 	background-color: #ffffff;
 	color: #333333;
